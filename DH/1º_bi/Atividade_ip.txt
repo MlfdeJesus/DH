@@ -1,0 +1,5 @@
+172.68.26.192 ip publico classe B
+192.168.0.101 ip privado Classe C
+20-89-84-86-23-9A mac
+COMPAL INFORMATION (KUNSHAN) CO., LTD.
+
