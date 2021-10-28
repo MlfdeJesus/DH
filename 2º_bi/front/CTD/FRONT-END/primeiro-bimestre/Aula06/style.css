@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap'); 
+body{
+     background-color: #131313df;
+}
+
+h1{
+    color:white;
+    font-family:'Qahiri', sans-serif;
+   
+}
+
+.media-picture
+{
+   
+    width: 100%; 
+    height: 400px;
+    background-image: url('https://images.universohq.com/2015/05/ThanosManopla_des.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+.review-score
+{
+    COLOR:white;
+    background-color:#e6bd09;
+    padding: 12px;
+}
+
+H2{
+    color: steelblue;
+}
+
+P{
+    COLOR:#bdbdbd;
+    font-family:'Qahiri', sans-serif;
+}
+
+A{
+    COLOR:Yellow;
+}

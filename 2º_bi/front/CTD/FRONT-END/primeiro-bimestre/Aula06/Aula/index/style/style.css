@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&display=swap');
+
+article{
+    background-image: url('https://1.bp.blogspot.com/-Sp0uU9eqHmg/Xe0NqfTiFTI/AAAAAAAAG_g/OvrIvVv3-wIrb-usHntMI2qYNmMM2JQ9gCNcBGAsYHQ/w1200-h630-p-k-no-nu/20191121-star-wars-darth-vader-series-2020-header-1196949-1200x675.jpeg');
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+background-color: rgb(12, 12, 11);
+color: cornsilk;
+font-family: 'Qahiri', sans-serif;
+font-size: 80px;
+}

@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(88, 38, 57, 0.233);
+    color: rgba(226, 8, 190, 0.739);
+    font-family:'Qahiri', sans-serif;
+    
+    
+  }
+  
+  h1{
+    color:#765799;
+    @import url('Qahiri');
+    .elemento{  
+    font-family: 'Qahiri', sans-serif;
+        }
+    font-size: 40px;
+  }
+  
+  h2{
+    font-size: 20px;
+  }
+  
+  .job-title{
+    color: #474c88;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 10px 5px 10px;
+  }
+  
+  #high{
+    color: rgba(102, 61, 197, 0.719);
+  }
+  
+  ul{
+    background-color: #2d3d5594;
+    color: rgb(223,215,185);
+    padding: 10px;
+  }
+  
