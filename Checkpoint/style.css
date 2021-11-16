@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab&family=Qahiri&display=swap');
+
+header {
+background-color:#000000;
+text-align: center;
+padding: 20px;
+font-family: 'Montagu Slab', serif;
+width: 100%;
+font-weight: 20;
+color: rgb(245, 209, 4);
+}
+
+h2 {
+text-align: center;
+}
+
+p {
+font-weight:900;
+font-family: 'Qahiri', sans-serif;
+color:rgb(0, 0, 0);
+text-align: center;
+}
+
+body {
+background-image:url(/img\ back.jpg) ;
+width: 100%;
+background-size: cover;
+background-position: center;    
+}
+
+div.video {
+margin: 0px -20px 30px -20px;
+padding-bottom:50%;
+position: relative;
+}
+    
+    
+div.video >iframe {
+position:absolute;
+top:5%;
+left:5%;
+width:90%;
+height:90%;
+}
+
+footer {
+background-color: rgb(0, 0, 0);
+}
+
+.contatoimg {
+width: 75px;
+height: 50px;
+}
+.contatoimg1 {
+width: 50px;
+height: 50px;
+}
