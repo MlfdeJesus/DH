@@ -1,0 +1,121 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+h1{
+font-weight: 300;
+  font-family:'Times New Roman', Times, serif;
+text-align: center;
+}
+p{
+  text-align: center;
+}
+
+a{
+  text-align: center;
+}
+
+header{
+width: 100%; 
+background-color: #050505;
+position: fixed;
+}
+
+.logo{
+width: 100px;
+position: absolute;
+top: 0px
+}
+
+.button{
+border-radius: 20px 50px;
+background-color:rgba(255, 15, 15, 0.959);
+width: 85px;    
+    }
+
+.button1{
+position: absolute;
+top: 8%;
+left: 10%;
+}
+
+.button2{
+  position: absolute;
+  top: 8%;
+  left:35%;
+}
+
+.button3{
+  position: absolute;
+  top: 8%;
+  left: 60%;
+}
+
+.button4{
+  position: absolute;
+  top: 8%;
+  left: 85%;
+}
+
+.banner{
+  width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.produtossection{
+  max-width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 72px auto;
+}
+
+.produtosarticle{
+  width: 30%;
+  border: 1px solid #bbbbbb;
+  border-radius: 12px;
+  margin-bottom: 32px;
+}
+
+.produtosimg{
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+
+}
+
+.produtosh1 {
+  font-size:4400px;
+  margin: 12px 0 6px;
+
+}
+
+.produtosp {
+  color: #00000099;
+  margin-bottom: 18px;
+}
+
+.prdutosa {
+  color: white;
+  background-color: cornflowerblue;
+  text-align: center;
+  padding: 24px 0;
+  text-decoration: none;
+  display: block;
+  border-radius: 12px;
+
+}
+
+.produtosmain {
+  padding: 12px;
+}
+
+.contato {
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
+  width: 100px;
+  }
