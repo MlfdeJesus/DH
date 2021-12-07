@@ -1,0 +1,57 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+header{
+position: fixed;
+background-color: chartreuse;
+ padding: 20px;
+width:100%;
+}
+
+
+ul{
+display: flex;
+gap:20px;
+}
+
+
+  
+
+
+.classimgmain{
+height: 100vh;
+padding-top: 20px;
+width: 100%;
+}
+
+
+section{
+height: 100vh;
+display: flex;
+padding: 24px;
+gap: 20px;
+background-color: rgb(255, 0, 179);
+width: 100%;
+}
+
+div{
+    padding: 40px;
+}
+
+
+
+@media(max-width:430px){
+    body{
+
+display: grid;
+
+    }
+}
+
